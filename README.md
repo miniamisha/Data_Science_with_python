@@ -1,2 +1,2 @@
 # Data_Science_with_python
-This repo will contain the topics from data science.
+This repo will contain the topics from data science taught by Simplilearn.
